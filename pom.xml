@@ -4,7 +4,7 @@
 
   <groupId>com.olowolo</groupId>
   <artifactId>github-lab</artifactId>
-  <version>1.0.0</version>
+  <version>1.0.1-SNAPSHOT</version>
 
   <name>github-lab</name>
   <description>Just for test something...</description>
@@ -23,7 +23,7 @@
     <url>https://github.com/olOwOlo/github-lab</url>
     <connection>scm:git:ssh://github.com/olOwOlo/github-lab.git</connection>
     <developerConnection>scm:git:ssh://git@github.com/olOwOlo/github-lab.git</developerConnection>
-    <tag>v1.0.0</tag>
+    <tag>HEAD</tag>
   </scm>
 
   <issueManagement>
